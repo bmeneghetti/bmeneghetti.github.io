@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+
+*{
+    background-color: #0B1840;
+    text-align: center;
+}
+
+h1{
+    color: #00ADB5;
+}
+
+h1, ul{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Alkalami', serif;
+    color: #BDBFAA;
+    font-size: 15px;
+    line-height: 8px;
+}
+
+img{
+    border-radius: 100px;
+}
+
+.texto{
+    color: #00ADB5;
+}
+
+p{
+    font-family: 'Alkalami', serif;
+    font-size: 16px;
+}
